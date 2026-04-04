@@ -17,7 +17,7 @@ A minimalist mastery-based web app for learning and using eloquent vocabulary fr
 - A JSON array of word objects.
 - Each object contains: `word`, `phonetic`, `definition`, `examples` (array of 2), `source`.
 
-### User State (LocalStorage)
+### User State (@ionic/storage)
 
 | Key              | Type    | Description                                              |
 | ---------------- | ------- | -------------------------------------------------------- |
@@ -58,7 +58,7 @@ A minimalist mastery-based web app for learning and using eloquent vocabulary fr
 
 ### Persistent Storage
 
-- Every state change (adding a word, logging a use, mastering a word) must **sync immediately** to `localStorage`.
+- Every state change (adding a word, logging a use, mastering a word) must **sync immediately** to `@ionic/storage`.
 
 ---
 
@@ -67,7 +67,7 @@ A minimalist mastery-based web app for learning and using eloquent vocabulary fr
 | Rule                       | Detail                                                                                     |
 | -------------------------- | ------------------------------------------------------------------------------------------ |
 | **No Fancy UI/UX**         | No animations, transitions, or custom themes. Use standard `<button>`, `<ul>`, `<h3>` tags. |
-| **No External Database**   | Strictly use `localStorage` for now.                                                       |
+| **No External Database**   | Strictly use `@ionic/storage` for now.                                                     |
 | **No User Accounts**       | No login, no profile, no cloud sync.                                                       |
 | **No Complex Gamification**| No levels, XP, or badges. Only track "Mastered Count" and "Active Stack" status.           |
 | **No Automated Content**   | No dictionary API. Pull exclusively from the curated local JSON library. (API deferred.)   |
