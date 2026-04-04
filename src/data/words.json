@@ -1,0 +1,442 @@
+[
+  {
+    "id": "eldritch",
+    "word": "Eldritch",
+    "phonetic": "/ˈɛl.drɪtʃ/",
+    "definition": "Weird and sinister or ghostly; unnervingly strange.",
+    "examples": [
+      "An eldritch screech echoed from the depths of the ancient well.",
+      "The eldritch glow of the fungi illuminated the cavern walls."
+    ],
+    "source": "H.P. Lovecraft"
+  },
+  {
+    "id": "ineffable",
+    "word": "Ineffable",
+    "phonetic": "/ɪˈnɛf.ə.bəl/",
+    "definition": "Too great or extreme to be expressed or described in words.",
+    "examples": [
+      "She felt an ineffable joy upon seeing the northern lights for the first time.",
+      "The ineffable complexity of the cosmos humbled even the greatest minds."
+    ],
+    "source": "J.R.R. Tolkien"
+  },
+  {
+    "id": "sanguine",
+    "word": "Sanguine",
+    "phonetic": "/ˈsæŋ.ɡwɪn/",
+    "definition": "Optimistic or positive, especially in a difficult situation; blood-red.",
+    "examples": [
+      "He remained sanguine despite the cascade of setbacks.",
+      "The sanguine hue of the desert sunset stained the horizon."
+    ],
+    "source": "Cormac McCarthy"
+  },
+  {
+    "id": "tenebrous",
+    "word": "Tenebrous",
+    "phonetic": "/ˈtɛn.ə.brəs/",
+    "definition": "Dark; shadowy or obscure.",
+    "examples": [
+      "They descended into the tenebrous passages beneath the old cathedral.",
+      "His tenebrous past was a subject no one dared broach."
+    ],
+    "source": "H.P. Lovecraft"
+  },
+  {
+    "id": "vestigial",
+    "word": "Vestigial",
+    "phonetic": "/vɛˈstɪdʒ.i.əl/",
+    "definition": "Forming a very small remnant of something that was once much larger or more noticeable.",
+    "examples": [
+      "The vestigial remains of the fortress crumbled against the cliffside.",
+      "A vestigial sense of duty compelled him to return."
+    ],
+    "source": "Cormac McCarthy"
+  },
+  {
+    "id": "susurrus",
+    "word": "Susurrus",
+    "phonetic": "/suːˈsɜː.rəs/",
+    "definition": "A whispering or rustling sound.",
+    "examples": [
+      "The susurrus of the wind through the pines was the only sound for miles.",
+      "A susurrus of hushed voices filled the dim hall."
+    ],
+    "source": "J.R.R. Tolkien"
+  },
+  {
+    "id": "lambent",
+    "word": "Lambent",
+    "phonetic": "/ˈlæm.bənt/",
+    "definition": "Softly bright or radiant; running lightly over a surface.",
+    "examples": [
+      "The lambent flames of the hearth cast dancing shadows on the stone walls.",
+      "Her lambent wit charmed even the most taciturn of guests."
+    ],
+    "source": "J.R.R. Tolkien"
+  },
+  {
+    "id": "charnel",
+    "word": "Charnel",
+    "phonetic": "/ˈtʃɑːr.nəl/",
+    "definition": "Associated with death; gruesomely reminiscent of a place where corpses are kept.",
+    "examples": [
+      "The charnel stench rising from the bog was unbearable.",
+      "They stumbled upon a charnel pit hidden beneath the ruined chapel."
+    ],
+    "source": "H.P. Lovecraft"
+  },
+  {
+    "id": "pellucid",
+    "word": "Pellucid",
+    "phonetic": "/pəˈluː.sɪd/",
+    "definition": "Translucently clear; easily understood.",
+    "examples": [
+      "The pellucid waters of the mountain lake revealed every stone on the bottom.",
+      "His pellucid prose made even the most complex ideas accessible."
+    ],
+    "source": "Cormac McCarthy"
+  },
+  {
+    "id": "atavistic",
+    "word": "Atavistic",
+    "phonetic": "/ˌæt.əˈvɪs.tɪk/",
+    "definition": "Relating to or characterized by reversion to something ancient or ancestral.",
+    "examples": [
+      "An atavistic fear gripped him as the forest closed in around the path.",
+      "The ritual had an atavistic quality, echoing rites older than memory."
+    ],
+    "source": "Cormac McCarthy"
+  },
+  {
+    "id": "coruscate",
+    "word": "Coruscate",
+    "phonetic": "/ˈkɒr.ə.skeɪt/",
+    "definition": "To flash or sparkle; to give off brilliant flashes of light.",
+    "examples": [
+      "The gemstones coruscated under the lamplight, scattering prismatic shards across the ceiling.",
+      "Lightning coruscated along the ridgeline, illuminating the barren plain."
+    ],
+    "source": "J.R.R. Tolkien"
+  },
+  {
+    "id": "crepuscular",
+    "word": "Crepuscular",
+    "phonetic": "/krɪˈpʌs.kjʊ.lər/",
+    "definition": "Of, resembling, or relating to twilight.",
+    "examples": [
+      "Crepuscular light filtered through the canopy, painting the trail in shades of amber.",
+      "The crepuscular hours were his favourite time to walk the moors."
+    ],
+    "source": "H.P. Lovecraft"
+  },
+  {
+    "id": "implacable",
+    "word": "Implacable",
+    "phonetic": "/ɪmˈplæk.ə.bəl/",
+    "definition": "Unable to be placated; relentless and unstoppable.",
+    "examples": [
+      "The implacable advance of the desert swallowed village after village.",
+      "She was implacable in her pursuit of the truth, regardless of the cost."
+    ],
+    "source": "Cormac McCarthy"
+  },
+  {
+    "id": "numinous",
+    "word": "Numinous",
+    "phonetic": "/ˈnjuː.mɪ.nəs/",
+    "definition": "Having a strong religious or spiritual quality; indicating the presence of a divinity.",
+    "examples": [
+      "The ancient grove had a numinous quality that silenced even the most sceptical visitors.",
+      "A numinous hush fell over the congregation as the chant began."
+    ],
+    "source": "J.R.R. Tolkien"
+  },
+  {
+    "id": "palimpsest",
+    "word": "Palimpsest",
+    "phonetic": "/ˈpæl.ɪmp.sɛst/",
+    "definition": "Something reused or altered but still bearing visible traces of its earlier form.",
+    "examples": [
+      "The city was a palimpsest of civilisations, each layer visible beneath the next.",
+      "Her face was a palimpsest of emotions—grief written over joy, exhaustion over resolve."
+    ],
+    "source": "Cormac McCarthy"
+  },
+  {
+    "id": "quiescent",
+    "word": "Quiescent",
+    "phonetic": "/kwiˈɛs.ənt/",
+    "definition": "In a state or period of inactivity or dormancy.",
+    "examples": [
+      "The volcano had been quiescent for decades, but tremors now hinted at its awakening.",
+      "He sat quiescent by the fire, his thoughts turning inward."
+    ],
+    "source": "H.P. Lovecraft"
+  },
+  {
+    "id": "fulgurant",
+    "word": "Fulgurant",
+    "phonetic": "/ˈfʌl.ɡjʊ.rənt/",
+    "definition": "Flashing like lightning; dazzlingly bright.",
+    "examples": [
+      "A fulgurant bolt split the sky and struck the ancient oak.",
+      "His fulgurant insight cut through the confusion in the room."
+    ],
+    "source": "H.P. Lovecraft"
+  },
+  {
+    "id": "anodyne",
+    "word": "Anodyne",
+    "phonetic": "/ˈæn.ə.daɪn/",
+    "definition": "Not likely to provoke dissent or offence; serving to alleviate pain.",
+    "examples": [
+      "The politician gave an anodyne speech that carefully avoided any controversy.",
+      "Music was his anodyne against the grinding stress of daily life."
+    ],
+    "source": "Cormac McCarthy"
+  },
+  {
+    "id": "liminal",
+    "word": "Liminal",
+    "phonetic": "/ˈlɪm.ɪ.nəl/",
+    "definition": "Occupying a position at, or on both sides of, a boundary or threshold.",
+    "examples": [
+      "The hallway had a liminal quality, belonging neither to the house nor the garden.",
+      "He existed in a liminal state between sleep and waking."
+    ],
+    "source": "H.P. Lovecraft"
+  },
+  {
+    "id": "scintilla",
+    "word": "Scintilla",
+    "phonetic": "/sɪnˈtɪl.ə/",
+    "definition": "A tiny trace or spark of a specified quality or feeling.",
+    "examples": [
+      "There was not a scintilla of evidence to support the accusation.",
+      "A scintilla of hope flickered in the darkness of her despair."
+    ],
+    "source": "J.R.R. Tolkien"
+  },
+  {
+    "id": "petard",
+    "word": "Hoist with his own petard",
+    "phonetic": "/hɔɪst wɪð hɪz oʊn pɪˈtɑːrd/",
+    "definition": "To be harmed or destroyed by one's own scheme or device intended for others.",
+    "examples": [
+      "The lobbyist was hoist with his own petard when the leaked emails exposed his own corruption.",
+      "She tried to undermine her rival but was hoist with her own petard when the plan backfired."
+    ],
+    "source": "William Shakespeare"
+  },
+  {
+    "id": "quintessence",
+    "word": "Quintessence",
+    "phonetic": "/kwɪnˈtɛs.əns/",
+    "definition": "The most perfect or typical example of a quality or class; the purest essence.",
+    "examples": [
+      "He was the quintessence of elegance, effortless in every gesture.",
+      "The dish was the quintessence of simplicity—three ingredients, perfectly balanced."
+    ],
+    "source": "William Shakespeare"
+  },
+  {
+    "id": "consanguineous",
+    "word": "Consanguineous",
+    "phonetic": "/ˌkɒn.sæŋˈɡwɪn.i.əs/",
+    "definition": "Of the same blood or origin; related by birth.",
+    "examples": [
+      "The consanguineous ties between the two houses made the feud all the more tragic.",
+      "Their consanguineous bond was undeniable, visible in every shared mannerism."
+    ],
+    "source": "William Shakespeare"
+  },
+  {
+    "id": "oppugnant",
+    "word": "Oppugnant",
+    "phonetic": "/əˈpʌɡ.nənt/",
+    "definition": "Opposing; antagonistic; combative.",
+    "examples": [
+      "The two factions remained oppugnant, each refusing to yield an inch.",
+      "His oppugnant nature made diplomacy an exercise in futility."
+    ],
+    "source": "William Shakespeare"
+  },
+  {
+    "id": "auspicious",
+    "word": "Auspicious",
+    "phonetic": "/ɔːˈspɪʃ.əs/",
+    "definition": "Conducive to success; favourable. Giving or being a sign of future success.",
+    "examples": [
+      "The clear skies on launch day seemed auspicious for the mission.",
+      "It was not the most auspicious beginning—the keynote speaker tripped on stage."
+    ],
+    "source": "William Shakespeare"
+  },
+  {
+    "id": "brevity-wit",
+    "word": "Brevity is the soul of wit",
+    "phonetic": "/ˈbrɛv.ɪ.ti ɪz ðə soʊl ʌv wɪt/",
+    "definition": "Intelligent and effective communication is best achieved through conciseness.",
+    "examples": [
+      "His code reviews were legendary—brevity is the soul of wit, and his comments never exceeded a sentence.",
+      "She trimmed the report from forty pages to ten, proving that brevity is the soul of wit."
+    ],
+    "source": "William Shakespeare"
+  },
+  {
+    "id": "salad-days",
+    "word": "Salad days",
+    "phonetic": "/ˈsæl.əd deɪz/",
+    "definition": "A period of youth, inexperience, and naïve idealism.",
+    "examples": [
+      "In his salad days he believed every startup pitch he heard.",
+      "Those were her salad days—reckless, hopeful, and blissfully unaware of consequence."
+    ],
+    "source": "William Shakespeare"
+  },
+  {
+    "id": "incarnadine",
+    "word": "Incarnadine",
+    "phonetic": "/ɪnˈkɑːr.nə.daɪn/",
+    "definition": "A crimson or pinkish-red colour; to dye or stain red.",
+    "examples": [
+      "The setting sun incarnadined the snow-capped peaks.",
+      "A single drop of ink fell and incarnadined the entire basin of water."
+    ],
+    "source": "William Shakespeare"
+  },
+  {
+    "id": "beggared",
+    "word": "Beggared",
+    "phonetic": "/ˈbɛɡ.ərd/",
+    "definition": "Reduced to a state of poverty; exhausted the resources or ability of.",
+    "examples": [
+      "The spectacle beggared description—no photograph could do it justice.",
+      "Years of mismanagement had beggared the once-prosperous institution."
+    ],
+    "source": "William Shakespeare"
+  },
+  {
+    "id": "capricious",
+    "word": "Capricious",
+    "phonetic": "/kəˈprɪʃ.əs/",
+    "definition": "Given to sudden and unaccountable changes of mood or behaviour.",
+    "examples": [
+      "The capricious weather turned a sunny hike into a drenched retreat.",
+      "Investors fled from the capricious policy shifts of the new administration."
+    ],
+    "source": "William Shakespeare"
+  },
+  {
+    "id": "pandemonium",
+    "word": "Pandemonium",
+    "phonetic": "/ˌpæn.dɪˈmoʊ.ni.əm/",
+    "definition": "Wild and noisy disorder or confusion; the capital of Hell in Milton's Paradise Lost.",
+    "examples": [
+      "Pandemonium erupted in the stadium when the underdog scored in stoppage time.",
+      "The open-plan office descended into pandemonium the moment the servers went down."
+    ],
+    "source": "John Milton"
+  },
+  {
+    "id": "stygian",
+    "word": "Stygian",
+    "phonetic": "/ˈstɪdʒ.i.ən/",
+    "definition": "Extremely dark, gloomy, or forbidding; of or relating to the river Styx.",
+    "examples": [
+      "The stygian depths of the ocean trench admitted no light whatsoever.",
+      "A stygian silence fell over the battlefield after the last shot."
+    ],
+    "source": "John Milton"
+  },
+  {
+    "id": "obdurate",
+    "word": "Obdurate",
+    "phonetic": "/ˈɒb.djʊ.rət/",
+    "definition": "Stubbornly refusing to change one's opinion or course of action; hardened against feeling.",
+    "examples": [
+      "The obdurate negotiator refused every compromise put before him.",
+      "Despite the mounting evidence, she remained obdurate in her original assessment."
+    ],
+    "source": "John Milton"
+  },
+  {
+    "id": "empyrean",
+    "word": "Empyrean",
+    "phonetic": "/ˌɛm.paɪˈriː.ən/",
+    "definition": "The highest part of heaven, regarded as a realm of pure fire or light; celestial.",
+    "examples": [
+      "The composer's final symphony seemed to reach into the empyrean itself.",
+      "From the summit, the view was empyrean—boundless sky in every direction."
+    ],
+    "source": "John Milton"
+  },
+  {
+    "id": "apostate",
+    "word": "Apostate",
+    "phonetic": "/əˈpɒs.teɪt/",
+    "definition": "A person who renounces a religious or political belief or principle.",
+    "examples": [
+      "The apostate was shunned by the community he had once led.",
+      "She was branded an apostate for questioning the founding tenets of the organisation."
+    ],
+    "source": "John Milton"
+  },
+  {
+    "id": "ethereal",
+    "word": "Ethereal",
+    "phonetic": "/ɪˈθɪə.ri.əl/",
+    "definition": "Extremely delicate and light in a way that seems not of this world.",
+    "examples": [
+      "The ethereal mist hanging over the lake gave it a dreamlike quality.",
+      "Her voice had an ethereal quality that silenced the room."
+    ],
+    "source": "John Milton"
+  },
+  {
+    "id": "perdition",
+    "word": "Perdition",
+    "phonetic": "/pəˈdɪʃ.ən/",
+    "definition": "A state of eternal punishment and damnation; complete ruin.",
+    "examples": [
+      "The gambler's path led inexorably to financial perdition.",
+      "He warned them that pride would be their perdition."
+    ],
+    "source": "John Milton"
+  },
+  {
+    "id": "effulgent",
+    "word": "Effulgent",
+    "phonetic": "/ɪˈfʌl.dʒənt/",
+    "definition": "Shining brightly; radiant; emanating joy or goodness.",
+    "examples": [
+      "The effulgent dawn broke through weeks of overcast gloom.",
+      "Her effulgent smile was enough to disarm even the sternest critic."
+    ],
+    "source": "John Milton"
+  },
+  {
+    "id": "adamantine",
+    "word": "Adamantine",
+    "phonetic": "/ˌæd.əˈmæn.tiːn/",
+    "definition": "Unbreakable; utterly unyielding; having the hardness of diamond.",
+    "examples": [
+      "Her adamantine resolve carried the project through three rounds of rejection.",
+      "The adamantine chains of habit are too light to be felt until they are too heavy to be broken."
+    ],
+    "source": "John Milton"
+  },
+  {
+    "id": "seraphic",
+    "word": "Seraphic",
+    "phonetic": "/sɪˈræf.ɪk/",
+    "definition": "Characteristic of or resembling a seraph; angelically pure, sublime, or beautiful.",
+    "examples": [
+      "The child gazed up with a seraphic innocence that disarmed every adult in the room.",
+      "A seraphic chorus rose from the cathedral, filling the nave with otherworldly sound."
+    ],
+    "source": "John Milton"
+  }
+]
